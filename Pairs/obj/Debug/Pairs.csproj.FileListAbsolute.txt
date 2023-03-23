@@ -1,0 +1,13 @@
+C:\Users\325L-01\Desktop\Колупае\Pairs\obj\Debug\Pairs.csproj.AssemblyReference.cache
+C:\Users\325L-01\Desktop\Колупае\Pairs\obj\Debug\Pairs.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-01\Desktop\Колупае\Pairs\obj\Debug\Pairs.Form1.resources
+C:\Users\325L-01\Desktop\Колупае\Pairs\obj\Debug\Pairs.Properties.Resources.resources
+C:\Users\325L-01\Desktop\Колупае\Pairs\obj\Debug\Pairs.csproj.GenerateResource.cache
+C:\Users\325L-01\Desktop\Колупае\Pairs\obj\Debug\Pairs.csproj.CoreCompileInputs.cache
+C:\Users\325L-01\Desktop\Колупае\Pairs\bin\Debug\Pairs.exe.config
+C:\Users\325L-01\Desktop\Колупае\Pairs\bin\Debug\Pairs.exe
+C:\Users\325L-01\Desktop\Колупае\Pairs\bin\Debug\Pairs.pdb
+C:\Users\325L-01\Desktop\Колупае\Pairs\obj\Debug\Pairs.exe
+C:\Users\325L-01\Desktop\Колупае\Pairs\obj\Debug\Pairs.pdb
+C:\Users\325L-01\Desktop\Колупае\Pairs\obj\Debug\Pairs.Start.resources
+C:\Users\325L-01\Desktop\Колупае\Pairs\obj\Debug\Pairs.Extended.resources
